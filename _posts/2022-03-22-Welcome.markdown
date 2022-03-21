@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to My Blog!"
+date:   2022-03-21 17:48:26 +0900
+categories: jekyll update
+---
+WELCOME TO SELF-BUILT BLOG! 
+
+It nearly took me about a week just to build jekyll - I've encountered so many errors just to be where this is now. So I thought it would be a good idea to share a story of my jekyll-building journey with you here. . . maybe tomorrow or sometime this week.
+
+
+우와 나 블로그만들었다!!!!! 쩐다!!!!!
