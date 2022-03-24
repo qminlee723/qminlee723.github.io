@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "brief note on blog updates for my own reference"
-date:   2022-03-21 17:48:26 +0900
+date:   2022-03-25 01:27:26 +0900
 categories: jekyll update
 ---
 
