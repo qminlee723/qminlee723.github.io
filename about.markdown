@@ -4,8 +4,23 @@ title: About
 permalink: /about/
 ---
 
-나는 이규민~ 규민규민
-여기는 내 레주메 넣을거지롱
-사진도 넣을거지롱
+<img data-action="zoom" src='{{ "/public/95226714.jpg" | relative_url }}' alt='absolute'>
 
-DOWNLOAD는 도대체 뭐하는 페이지인지 알아보기
+GYUMIN LEE
+===
+> I'm currently learning *python*, *css*, *html*, *django* and *algorithm* 
+> Looking for an internship opportunity & job position
+> (Soon to be) Front-End Developer
+
+WORK EXPERIENCE
+====
+
+EDUCATION
+====
+
+
+
+
+
+
+
