@@ -8,8 +8,9 @@ permalink: /about/
 
 **GYUMIN LEE**
 ===
-> I'm currently learning *python*, *css*, *html*, *django* and *algorithm* 
-> Front-End Developer
+> :round_pushpin: Seoul, Korea <br>
+> I'm currently learning *python*, *css*, *html*, and *django* <br>
+> Pursuing a career as a frontend developer <br>
 
 <hr>
 
